@@ -170,9 +170,12 @@ body {
   margin-right: 8.4rem;
   width: 75rem;
   height: 44rem;
-  border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
+  border: solid 0.1rem rgba(255, 255, 255);
   box-sizing: border-box;
-  background-color: #e5e5e5;
+  background-image: url('function_1.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .auto-group-zbkl-5C4 .body-e-cSt .auto-group-m4ze-CR6 {
@@ -297,9 +300,12 @@ body {
 .sample-wireframe-VVS .body-f-xyv .rectangle-BEQ {
   width: 75rem;
   height: 44rem;
-  border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
+  border: solid 0.1rem rgba(255, 255, 255, 0.2);
   box-sizing: border-box;
-  background-color: #e5e5e5;
+  background-image: url('function_2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .body-g-ssv {
@@ -319,9 +325,12 @@ body {
   margin-right: 8.4rem;
   width: 75rem;
   height: 44rem;
-  border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
+  border: solid 0.1rem rgba(255, 255, 255);
   box-sizing: border-box;
-  background-color: #e5e5e5;
+  background-image: url('function_3.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .body-g-ssv .auto-group-x5ys-hrx {
