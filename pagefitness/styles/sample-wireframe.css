@@ -1,6 +1,6 @@
 
 html {
-	font-size: 62.5%;
+	font-size:62.5%;
 }
 * {
 	margin: 0;
@@ -182,12 +182,9 @@ body {
   margin-right: 8.4rem;
   width: 75rem;
   height: 44rem;
-  border: solid 0.1rem rgba(255, 255, 255);
+  border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
   box-sizing: border-box;
-  background-image: url('function_1.png');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #e5e5e5;
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .auto-group-zbkl-5C4 .body-e-cSt .auto-group-m4ze-CR6 {
@@ -235,9 +232,7 @@ body {
   display: flex;
   flex-direction: column;
   border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
-  background-image: url('./background.jpg');
-  background-repeat: no-repeat;
-  background-size : cover;
+  background-color: #e5e5e5;
 }
 .sample-wireframe-VVS .auto-group-zbkl-5C4 .hero-a-Em6 .rectangle-NcQ .the-largest-community-of-photo-enthusiasts-JW4 {
   margin-bottom: 4rem;
@@ -311,12 +306,9 @@ body {
 .sample-wireframe-VVS .body-f-xyv .rectangle-BEQ {
   width: 75rem;
   height: 44rem;
-  border: solid 0.1rem rgba(255, 255, 255, 0.2);
+  border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
   box-sizing: border-box;
-  background-image: url('function_2.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #e5e5e5;
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .body-g-ssv {
@@ -336,12 +328,9 @@ body {
   margin-right: 8.4rem;
   width: 75rem;
   height: 44rem;
-  border: solid 0.1rem rgba(255, 255, 255);
+  border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
   box-sizing: border-box;
-  background-image: url('function_3.jpeg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #e5e5e5;
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .body-g-ssv .auto-group-x5ys-hrx {
