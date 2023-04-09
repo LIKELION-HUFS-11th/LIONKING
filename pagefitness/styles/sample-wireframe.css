@@ -106,7 +106,7 @@ body {
   line-height: 1.2175;
   letter-spacing: -0.0225rem;
   color: #18a0fb;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -120,7 +120,7 @@ body {
   line-height: 1.2175;
   letter-spacing: -0.0225rem;
   color: #18a0fb;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -134,7 +134,7 @@ body {
   line-height: 1.2175;
   letter-spacing: -0.0225rem;
   color: #18a0fb;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -148,7 +148,7 @@ body {
   line-height: 1.2175;
   letter-spacing: -0.0225rem;
   color: #18a0fb;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -455,7 +455,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.072rem;
   color: #000000;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareExtraBold';
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .body-h-1FN .auto-group-wche-e3S {
@@ -642,7 +642,7 @@ body {
   line-height: 1.3888888889;
   letter-spacing: -0.054rem;
   color: rgba(0, 0, 0, 0.8000000119);
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   flex-shrink: 0;
 }
 .buttons{
@@ -662,7 +662,7 @@ body {
   line-height: 1.2175;
   letter-spacing: -0.0255rem;
   color: #ffffff;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   white-space: nowrap;
   background-color: #18a0fb;
   border-radius: 1rem;
@@ -680,7 +680,7 @@ body {
   line-height: 1.2175;
   letter-spacing: -0.0255rem;
   color: #18a0fb;
-  font-family: Montserrat, 'Source Sans Pro';
+  font-family: 'NanumSquareBold';
   white-space: nowrap;
   border: solid 0.1rem #18a0fb;
   box-sizing: border-box;
@@ -710,7 +710,7 @@ body {
 }
 .sample-wireframe-VVS .footer-a-cZE .auto-group-sjyt-vZv .auto-group-2bb6-FMJ {
   box-sizing: border-box;
-  padding-right: 24.3rem;
+  padding-right: 11rem;
   height: 100%;
   display: flex;
   align-items: flex-start;
@@ -749,7 +749,7 @@ body {
   flex-shrink: 0;
 }
 .sample-wireframe-VVS .footer-a-cZE .auto-group-sjyt-vZv .sample-logo-Asa {
-  margin-right: 23.9778rem;
+  margin-right: 5rem;/* 23.9778rem */
   height: 100%;
   display: flex;
   align-items: center;
@@ -757,8 +757,8 @@ body {
 }
 .sample-wireframe-VVS .footer-a-cZE .auto-group-sjyt-vZv .sample-logo-Asa .auto-group-ipye-vbr {
   margin: 0rem 1.17rem 0.356rem 0rem;
-  width: 2.2519rem;
-  height: 2.2519rem;
+  width: 200px;/*2.2519rem*/
+  /* height: 2.2519rem; */
   position: relative;
   object-fit: contain;
   vertical-align: top;
