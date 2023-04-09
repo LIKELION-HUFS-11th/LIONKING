@@ -68,6 +68,26 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+
+
+.function_button {
+  text-decoration: none;
+  color: #18a0fb;
+
+}
+
+.review_button {
+  text-decoration: none;
+  color: #18a0fb
+}
+
+.support_button {
+  text-decoration: none;
+  color: #18a0fb
+}
+
+
 .sample-wireframe-VVS .navigation-c-pRE .pricing-S7A {
   margin-right: 4rem;
   display: flex;
@@ -223,9 +243,27 @@ body {
   display: flex;
   flex-direction: column;
   border: solid 0.1rem rgba(0, 0, 0, 0.3000000119);
-  background: url('./background.png') center center / 100% no-repeat;
+  background-image: url('./background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
+
+.소개글 {
+  margin-bottom: 2rem;
+  margin-right: ;
+  max-width: 500rem;
+  font-size: 2rem;
+  font-weight: 100;
+  line-height: 2;
+  letter-spacing: -0.084rem;
+  color: white;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+  font-weight: 600;
+
+}
 
 .sample-wireframe-VVS .auto-group-zbkl-5C4 .hero-a-Em6 .rectangle-NcQ .the-largest-community-of-photo-enthusiasts-JW4 {
   margin-bottom: 4rem;
